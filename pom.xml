@@ -31,7 +31,7 @@
 			            <password>Radio@143</password>
 			            <environment>Production</environment>
 			            <applicationName>maven-test-2-epriyada</applicationName>
-			            <muleVersion>4</muleVersion> <!-- This is the runtime version as it appears on the CloudHub interface -->
+			            <muleVersion>4.1.2</muleVersion> <!-- This is the runtime version as it appears on the CloudHub interface -->
 			            <properties>
 			                <key>value</key>
 			            </properties>
