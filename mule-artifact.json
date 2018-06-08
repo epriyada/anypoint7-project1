@@ -1,0 +1,18 @@
+{
+  "configs": [
+    "maven-test-2.xml"
+  ],
+  "secureProperties": [],
+  "redeploymentEnabled": true,
+  "name": "maven-test-2",
+  "minMuleVersion": "4.1.2",
+  "requiredProduct": "MULE_EE",
+  "classLoaderModelLoaderDescriptor": {
+    "id": "mule",
+    "attributes": {}
+  },
+  "bundleDescriptorLoader": {
+    "id": "mule",
+    "attributes": {}
+  }
+}
